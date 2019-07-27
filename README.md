@@ -1,0 +1,1 @@
+单机轻量级Eureka Server
